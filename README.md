@@ -7,9 +7,8 @@
 
 ## 📈Statistics
 
-![Jo Carllyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=calyle&show_icons=true&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10&theme=radical)
-
-![Jo Carllyle's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calyle&show_icons=true&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10&theme=radical&layout=compact)
+| ![Jo Carllyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=calyle&show_icons=true&include_all_commits=true&border_color=9B84EE&border_radius=10&theme=radical) | ![Jo Carllyle's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calyle&show_icons=true&include_all_commits=true&border_color=9B84EE&border_radius=10&theme=radical&layout=compact) |
+| ------------- | ------------- |
 
 <!--
 **calyle/calyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
